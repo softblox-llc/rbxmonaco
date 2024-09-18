@@ -3,7 +3,7 @@
 
 You're in a repository that forked a web-based code editor, Monaco, from the Microsoft Corporation that has been forked again to this one.
 
-`vs/` is the directory which contains most modifications, as described in the repository description. It has the autocomplete code and the documentation. For unintellectuals using YouTube to learn to make Roblox exploits, this file what you replace `monaco.html` with. Remember to download everything in the repository, though, since we're using Monaco 0.18.1, which might be a different version then what you already have (if you already have Monaco at all).
+`Monaco/` is the directory which contains most modifications, as described in the repository description. It has the autocomplete code and the documentation. For unintellectuals using YouTube to learn to make Roblox exploits, this file what you replace `monaco.html` with. Remember to download everything in the repository, though, since we're using Monaco 0.18.1, which might be a different version then what you already have (if you already have Monaco at all).
 
 To use this in your project, you must credit EthanMcBloxxer and Microsoft, KanekiCat. We provide an easy way to do this. Just insert this code at the top of the rendered document:
 
